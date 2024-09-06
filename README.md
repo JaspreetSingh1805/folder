@@ -1,2 +1,2 @@
 # folder
-this is my temporary folder 
+This is my translator project 
