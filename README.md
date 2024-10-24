@@ -1,2 +1,2 @@
 # Translator
-This is my translator project 
+This is my translator project.
